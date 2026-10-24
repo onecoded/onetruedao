@@ -1,0 +1,2053 @@
+{
+  "generated_at": "2026-10-20T09:48:33",
+  "games": [
+    {
+      "id": "game_1_wu_wei_no_loss_lotto",
+      "number": 1,
+      "name": "Game 1: The Wu Wei No-Loss Healing Prize Pool ('Infinite Lotus Jackpot')",
+      "category": "Zero-Loss Positive-Sum Prize Pool (Recommended Default)",
+      "tao_law": "Dao De Jing Ch. 37 — 'The Tao does nothing (Wu Wei), yet nothing is left undone.'",
+      "mechanics": "Players deposit tokens into the ICP Yield Canister. 100% of every player's principal is permanently safe and withdrawable anytime. The pooled yield is split 50/50: 50% automatically funds highest-voted Earth & Mind Healing Grants, and 50% is awarded as a massive provably fair jackpot to lucky Soul Signature stewards.",
+      "min_tier_required": 1,
+      "principal_at_risk_pct": 0.0,
+      "house_edge_to_healing_pct": 50.0,
+      "max_payout_multiplier_label": "Infinite Yield Jackpot (0% Principal Loss)"
+    },
+    {
+      "id": "game_2_iching_64_cosmic_wheel",
+      "number": 2,
+      "name": "Game 2: The I Ching 64-Hexagram Cosmic Oracle Wheel ('Book of Changes')",
+      "category": "Provably Fair On-Chain Cosmic Odds",
+      "tao_law": "I Ching (Book of Changes) — 'In change there is the Supreme Ultimate (Taiji), which generates Yin and Yang.'",
+      "mechanics": "Cast 6 Yin/Yang lines using ICP's verifiable random beacon to land on 1 of the 64 Hexagrams. Auspicious harmony hexagrams (Hexagram 1 Qian, Hexagram 11 Tai/Peace, Hexagram 14 Great Possession, Hexagram 50 The Sacred Cauldron) pay 2.0x to 8.88x multipliers, plus deliver a tailored Soul Signature oracle reading. 100% of the house flow goes directly into the Planetary Healing Treasury.",
+      "min_tier_required": 2,
+      "principal_at_risk_pct": 100.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "Up to 8.88x + On-Chain Hexagram Oracle"
+    },
+    {
+      "id": "game_3_wu_xing_elemental_alchemy",
+      "number": 3,
+      "name": "Game 3: Wu Xing Five-Element Alchemy Staking ('The Generating Cycle')",
+      "category": "Fast 5-Element Harmonic Multiplier Game",
+      "tao_law": "Wu Xing (五行) — Water nourishes Wood, Wood feeds Fire, Fire creates Earth, Earth bears Metal, Metal collects Water.",
+      "mechanics": "Pick your active Element (Water, Wood, Fire, Earth, or Metal). The canister draws a verifiable cosmic Element: if it draws the Mother Element that generates yours (Sheng cycle), you win 2.4x; if it draws your exact Element in Taiji Resonance, you win 4.2x; if it draws the Controlling Element, your stake flows directly into that Element's real-world Earth/Mind Healing Fund!",
+      "min_tier_required": 2,
+      "principal_at_risk_pct": 100.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "2.4x (Generating) to 4.2x (Resonance)"
+    },
+    {
+      "id": "game_4_impact_prediction_market",
+      "number": 4,
+      "name": "Game 4: Planetary Healing Prediction & Resonance Market ('Oracle of Awakening')",
+      "category": "Collective Intelligence Impact Forecasting",
+      "tao_law": "Dao De Jing Ch. 71 — 'Knowing what is happening in the whole world without stepping out the door.'",
+      "mechanics": "Stake on verifiable world-healing milestones audited by the Five-Element AI Council (e.g., 'Will Sacred Gates complete 10,000 crisis co-regulation sessions this month?' or 'Will Amazon Basin Food Forest #4 pass satellite canopy verification?'). Accurate forecasters win the opposing pool + Bittensor research bounties while catalyzing real-world spotlights on projects that work.",
+      "min_tier_required": 2,
+      "principal_at_risk_pct": 50.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "1.5x to 5.0x Dynamic Parimutuel Pool"
+    },
+    {
+      "id": "game_5_soul_signature_coop_jackpot",
+      "number": 5,
+      "name": "Game 5: Soul Signature Sacred Gate Co-Op Jackpot ('The Hero's Covenant')",
+      "category": "Positive-Habit & Inner-Work Commitment Pool",
+      "tao_law": "Dao De Jing Ch. 64 — 'A journey of a thousand miles begins beneath one's feet.'",
+      "mechanics": "7 to 108 players lock stakes (or Tier 1 Free-Roll credits) into a 7-Day Chakra & Shadow-Work Quest. Every player who completes all 7 daily breathwork, deep-listening, or ecological stewardship check-ins gets 100% of their stake back PLUS splits the forfeited stakes of anyone who quit early PLUS a DAO treasury bonus!",
+      "min_tier_required": 1,
+      "principal_at_risk_pct": 0.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "1.25x to 3.5x Habit-Completion Split"
+    },
+    {
+      "id": "game_6_chakra_harmonic_slots",
+      "number": 6,
+      "name": "Game 6: The 7-Chakra Harmonic Resonance Wheel ('Kundalini Rising')",
+      "category": "Harmonic Frequency & Soul Signature Spin",
+      "tao_law": "Dao De Jing Ch. 42 — 'The myriad things carry Yin and embrace Yang, achieving harmony by combining these forces.'",
+      "mechanics": "Spin the 3 concentric Sacred Rings: Ring 1 (Chakra Solfeggio Frequency 396Hz–963Hz), Ring 2 (Five Elements), Ring 3 (Three Treasures Virtue). Aligning harmonic triads unlocks instant 1.8x to 12.0x payouts and mints a permanent harmonic badge onto your Soul Signature canister.",
+      "min_tier_required": 2,
+      "principal_at_risk_pct": 100.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "Up to 12.0x Kundalini Full-Alignment Jackpot"
+    },
+    {
+      "id": "game_7_no_numbers_vibe_alchemy_exchange",
+      "number": 7,
+      "name": "Game 7: The No-Numbers Alchemical Vibe & Essence Exchange ('Seasons of the Soul')",
+      "category": "100% Number-Free Intuitive Symbol, Weather & Frequency Trading Game",
+      "tao_law": "Dao De Jing Ch. 12 & Ch. 20 — 'The five colors blind the eye; the sage is guided by the inner belly (intuition), not the calculating eye.'",
+      "mechanics": "ZERO numbers, ZERO tickers, ZERO dollar signs, and ZERO percentages. Instead of left-brain numerical charts, you read the living 'Planetary Soul Weather' (parched fire, frozen winter stillness, restless wind) and trade Pure Symbolic Essences from your Sacred Satchel (Mountain Dewdrops, Wild Seedlings, Heart Embers, Stillness Lanterns, Temple Chimes, Golden Nectar, Grief-to-Grace Feathers). Matching what the collective field hungers for transmutes Essences into Living Relics and triggers real DAO Earth & Mind healing grants without a single number ever touching your screen!",
+      "min_tier_required": 1,
+      "principal_at_risk_pct": 0.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "Pure Symbolic Alchemy (Zero Numbers · Soul Relics & Healing Grants)"
+    },
+    {
+      "id": "game_8_108_original_art_contest_creative_raffle",
+      "number": 8,
+      "name": "Game 8: The 108-Category Original Art Contest & Creative Earth-Healing Raffles ('Create to Evolve Earth')",
+      "category": "Original Art Juried Contest + Positive-Sum Patron Creative Raffle (108 Categories Across 7 Chakras)",
+      "tao_law": "Dao De Jing Ch. 28 & Ch. 81 — 'Great art is like the uncarved block; the Sage does not hoard, and the more they give to others, the more they possess.'",
+      "mechanics": "Artists submit 100% original human/soul-guided works across 108 Sacred Categories spanning all 7 Chakras (zero entry barrier for creators). Patrons & community curators enter the Creative Earth-Healing Raffle by backing their favorite artworks (or using Tier 1 Free-Roll Service Credits). Every raffle pool splits 40% to the Winning Original Artists, 30% as a Provably Fair Creative Raffle Jackpot + 1-of-1 Soulbound Masterpiece Relic to a lucky Raffle Voter/Patron, and 30% directly to Verified Earth & Mind Healing Sanctuaries!",
+      "min_tier_required": 1,
+      "principal_at_risk_pct": 0.0,
+      "house_edge_to_healing_pct": 100.0,
+      "max_payout_multiplier_label": "40% Artist Laureate Grant · 30% Patron Raffle Jackpot + Art Relic · 30% Earth Healing"
+    }
+  ],
+  "no_numbers_essences": [
+    {
+      "id": "dewdrop",
+      "symbol": "I · WATER",
+      "name": "Mountain Dewdrop",
+      "quality": "Cooling Water · Deep Listening · Soothes Feverish Minds",
+      "chakra_affinity": "Sacral & Throat",
+      "color": "var(--ee-vision-sky)"
+    },
+    {
+      "id": "seedling",
+      "symbol": "II · WOOD",
+      "name": "Wild Forest Seedling",
+      "quality": "Living Wood · Fresh Hope · Reforestation & New Beginnings",
+      "chakra_affinity": "Root & Heart",
+      "color": "var(--ee-heart-emerald)"
+    },
+    {
+      "id": "ember",
+      "symbol": "III · FIRE",
+      "name": "Sacred Hearth Ember",
+      "quality": "Warming Fire · Courage · Melts Frozen Isolation & Numbness",
+      "chakra_affinity": "Solar Plexus & Heart",
+      "color": "var(--ee-copper-warm)"
+    },
+    {
+      "id": "lantern",
+      "symbol": "IV · STILLNESS",
+      "name": "Midnight Stillness Lantern",
+      "quality": "Deep Yin Silence · Sanctuary · Calms Stormy Anxiety",
+      "chakra_affinity": "Third Eye & Crown",
+      "color": "var(--ee-vision-blue)"
+    },
+    {
+      "id": "chime",
+      "symbol": "V · METAL",
+      "name": "Temple Bronze Chime",
+      "quality": "Clear Metal Resonance · Cuts Through Confusion & Illusion",
+      "chakra_affinity": "Throat & Third Eye",
+      "color": "var(--ee-vision-blue)"
+    },
+    {
+      "id": "nectar",
+      "symbol": "VI · EARTH",
+      "name": "Golden Earth Nectar",
+      "quality": "Sweet Grounded Nourishment · Replenishes Exhausted Healers",
+      "chakra_affinity": "Root & Sacral",
+      "color": "var(--ee-copper-warm)"
+    },
+    {
+      "id": "feather",
+      "symbol": "VII · ETHER",
+      "name": "Grief-to-Grace Feather",
+      "quality": "Alchemical Wind · Lifts Heavy Sorrow into Forgiveness",
+      "chakra_affinity": "Heart & Crown",
+      "color": "var(--ee-vision-sky)"
+    }
+  ],
+  "no_numbers_weather_states": [
+    {
+      "id": "parched_fire",
+      "sky_symbol": "SOLAR FIRE",
+      "weather_title": "The Collective Field is Parched with Restless Red Fire",
+      "poetic_reading": "Minds are overheated with outrage, rushing, and burnout. The Earth cracks with thirst.",
+      "hungers_for": [
+        "dewdrop",
+        "lantern",
+        "nectar"
+      ],
+      "harmony_relic": "Ocean of Nervous-System Calm (Unlocks Cooling Sanctuary Breathwork & Watershed Restoration)"
+    },
+    {
+      "id": "frozen_silence",
+      "sky_symbol": "WINTER STILLNESS",
+      "weather_title": "A Heavy Winter Frost of Isolation Blankets the Valley",
+      "poetic_reading": "Hearts feel numb, disconnected, and afraid to hope. Seeds sleep beneath the snow.",
+      "hungers_for": [
+        "ember",
+        "seedling",
+        "feather"
+      ],
+      "harmony_relic": "The Undying Community Hearth (Unlocks Warmth Circles & Youth Crisis Mentorship)"
+    },
+    {
+      "id": "fog_of_illusion",
+      "sky_symbol": "MIST & FOG",
+      "weather_title": "Swirling Grey Fog of Confusion & Noise Clouds the Horizon",
+      "poetic_reading": "Voices shout without listening; minds wander in labyrinthine doubt.",
+      "hungers_for": [
+        "chime",
+        "lantern",
+        "dewdrop"
+      ],
+      "harmony_relic": "Mirror of the Still Mountain Lake (Unlocks Deep-Listening De-Polarization Dialogues)"
+    },
+    {
+      "id": "weary_soil",
+      "sky_symbol": "AUTUMN EARTH",
+      "weather_title": "The Frontline Gardens & Caregivers Are Weary After the Harvest",
+      "poetic_reading": "Those who hold space for the world feel emptied out and need gentle replenishment.",
+      "hungers_for": [
+        "nectar",
+        "seedling",
+        "dewdrop"
+      ],
+      "harmony_relic": "The Immortal Peach Grove of Renewal (Unlocks Healer Rest Grants & Food Forest Planting)"
+    },
+    {
+      "id": "unspoken_grief",
+      "sky_symbol": "RAIN CLOUD",
+      "weather_title": "Heavy Unwept Clouds Gather Above the Collective Heart",
+      "poetic_reading": "Ancient ancestral sorrow asks to be witnessed, held in warmth, and lifted into song.",
+      "hungers_for": [
+        "feather",
+        "ember",
+        "lantern"
+      ],
+      "harmony_relic": "Thousand-Petal Lotus of Forgiveness (Unlocks Sacred Music & Grief-Integration Journeys)"
+    }
+  ],
+  "art_contest_categories_by_chakra": {
+    "root": [
+      "1. Sacred Soil & Permaculture Blueprint Art",
+      "2. Ancient Banyan & Old-Growth Forest Photography",
+      "3. Ancestral Healing & Lineage Portrait Painting",
+      "4. Earth-Sourced Clay, Stone & Natural Pigment Sculpture",
+      "5. Sanctuary Tiny-Home & Bamboo Architecture Design",
+      "6. Grounding 396Hz Tribal Drum & Didgeridoo Composition",
+      "7. Regenerative Watershed & Spring Restoration Maps",
+      "8. Barefoot Somatic Grounding & Qigong Instructional Film",
+      "9. Indigenous Seed-Saving Botanical Illustration",
+      "10. Nervous-System Safety & Trauma-Grounding Visual Guides",
+      "11. Sacred Mountain & Volcanic Island Landscape Art",
+      "12. Zero-Waste Craft, Weaving & Natural Fiber Textile Art",
+      "13. Wildlife Corridor & Endangered Species Guardian Posters",
+      "14. Community Food-Forest & Hearth Gathering Mural Design",
+      "15. Root-Lock Financial Sovereignty Illustrated Comic",
+      "16. Mother Earth Gaia Gratitude Woodblock & Linocut Prints"
+    ],
+    "sacral": [
+      "17. Living Water, Ocean Wave & Coral Reef Cinematography",
+      "18. 417Hz Sacral Flow Acoustic & Cello Sound Bath",
+      "19. Ecstatic Dance & Embodied Movement Short Reel",
+      "20. Watercolor & Fluid Ink Emotional Alchemy Painting",
+      "21. Sacred Play & Inner-Child Joy Illustrated Fable",
+      "22. Sensual Nature & Tropical Botanical Macro Photography",
+      "23. Moon-Cycle & Tidal Rhythm Illustrated Calendar Art",
+      "24. Culinary Alchemy & Healing Plant-Medicine Recipe Zine",
+      "25. Grief-to-Joy Emotional Wave Poetry & Spoken Word",
+      "26. Hand-Thrown Ceramic Vessel & Sacred Tea-Bowl Craft",
+      "27. Coral & Marine Sanctuary Restoration Visual Storytelling",
+      "28. Improvised World-Fusion & Handpan Sunset Session",
+      "29. Playful Wimmelbilder Crowd & Island Festival Illustration",
+      "30. Shadow-of-Addiction to Creative Freedom Graphic Story",
+      "31. Sacred Waters & Waterfall Field-Recording Soundscape"
+    ],
+    "solar_plexus": [
+      "32. Warrior of Light & Wu Wei Courage Concept Art",
+      "33. 528Hz Solar Transformation Brass, Gong & Fire Percussion",
+      "34. Hero's Descent & Shadow-Integration Graphic Novel",
+      "35. Clean Solar, Wind & Open-Source Eco-Invention Diagrams",
+      "36. Sovereign Boundary & Self-Mastery Calligraphic Poster",
+      "37. Sacred Fire Dance & Poi/Staff Flow Performance Video",
+      "38. Burnout-to-Vitality Ayurvedic & Dosha Balance Infographic",
+      "39. Ethical Leadership & Decentralized Guild Game Design",
+      "40. Golden Sunrise & Desert Monastery Fine Art Photography",
+      "41. Martial Arts, Tai Chi & Internal Alchemy Motion Study",
+      "42. Youth Empowerment & Rites-of-Passage Adventure Book Art",
+      "43. Courageous Truth-Telling Documentary Short (Under 5 Min)",
+      "44. Alchemical Crucible & Gold-Leaf Mixed Media Painting",
+      "45. Regenerative Village Micro-Economy Simulation Art",
+      "46. Unshakeable Center: Calm-in-the-Storm Visual Meditation"
+    ],
+    "heart": [
+      "47. 639Hz Heart-Coherence Choir & Harmonium Healing Song",
+      "48. Enemy-to-Brother De-Polarization Dialogue Documentary",
+      "49. Children's Animal Guide & Compassion Storybook Spreads",
+      "50. Radical Forgiveness & Grief-Transmutation Visual Poem",
+      "51. Sacred Sanctuary & Healing Temple Interior Concept Art",
+      "52. Devotional Kirtan, Medicine Melody & Acoustic Ballad",
+      "53. Intergenerational Elder & Child Portrait Series",
+      "54. Animal Rescue & Interspecies Friendship Photo Essay",
+      "55. Green Tara / Kwan Yin / Compassionate Archetype Thangka",
+      "56. Breath-Synchronized Partner & Community Co-Regulation Guide",
+      "57. Anonymous Acts of Kindness Street-Art & Pull-Tab Poster",
+      "58. Rose-Quartz & Emerald Geometry Heart-Opening Animation",
+      "59. Self-Compassion for Healers Illustrated Pocket Zine",
+      "60. Forest Canopy & Sunbeam Cathedral Cinematography",
+      "61. Love Letters to the Future Earth Handwritten Scroll"
+    ],
+    "throat": [
+      "62. 741Hz Pure Voice, Overtone Singing & Vocal Toning Track",
+      "63. Hand-Lettered Taoist & Sacred Aphorism Calligraphy",
+      "64. Typography-True Festival & Healing Gathering Poster",
+      "65. Original Philosophical Essay & Plain-English Wisdom Zine",
+      "66. Endangered Language & Oral Tradition Preservation Audio",
+      "67. Spoken-Word Truth & Liberation Lyrical Cypher",
+      "68. Open-Source Code-as-Poetry & Self-Describing Software Art",
+      "69. Sacred Chant & Mantra Lyrical Translation Folio",
+      "70. Nonviolent Communication & Conflict-Bridge Playbook",
+      "71. Acoustic Songwriting: One Voice, One Instrument Truth",
+      "72. Illustrated Glossary of Forgotten Sacred Words",
+      "73. Satirical Awakening Comic (Laughing at Ego & Hype)",
+      "74. Guided Somatic & Nervous-System Voiceover Meditation",
+      "75. Cymatics & Visible Sound-Wave Geometry Photography",
+      "76. Street-Chalk & Mural Proclamation of Planetary Peace"
+    ],
+    "third_eye": [
+      "77. 852Hz Binaural & Isochronic Deep-Intuition Sound Journey",
+      "78. Sacred Geometry, Sri Yantra & Flower-of-Life Precision Art",
+      "79. Infinite Cosmic Zoom (Micro-Cell to Macro-Galaxy) Animation",
+      "80. Lucid Dreaming & Archetypal Symbol Tarot/Oracle Deck Art",
+      "81. Audio-Reactive Hydra & GLSL Live Visual Shader Code",
+      "82.Systems-Thinking Map of Planetary Regeneration",
+      "83. Starlight Astro-Photography & Night-Sky Time-Lapse",
+      "84. Optical Stillness & Contemplative Mandala Coloring Plate",
+      "85. AI + Human Co-Created Visionary Surrealism (With Full Provenance)",
+      "86. I Ching 64-Hexagram Illustrated Contemplation Cards",
+      "87. Fractal Nature: Nautilus, Fern & River-Delta Geometry",
+      "88. Blindfolded Intuitive Drawing & Automatic Painting Series",
+      "89. Philosophical Paradox & Koan Illustrated Micro-Story",
+      "90. Future 2050 Evolved Earth Solarpunk Cityscape Concept",
+      "91. Third-Eye Illusion Breaker: Seeing Past Propaganda Art"
+    ],
+    "crown": [
+      "92. 963Hz Celestial Drone, Crystal Bowl & Silence Sound Bath",
+      "93. Thousand-Petal Lotus & Non-Dual Unity Fine Art Painting",
+      "94. Zen Enso Circle & One-Breath Sumi-e Ink Masterpiece",
+      "95. Wordless Contemplative Cinema (Pure Light, Nature & Stillness)",
+      "96. Sacred Architecture of Silence: Meditation Hall Blueprints",
+      "97. Cosmic Oneness & Overview-Effect Space/Earth Visual Art",
+      "98. The Uncarved Block (Pu): Minimalist Wabi-Sabi Sculpture",
+      "99. Interfaith Mystic Poetry Anthology (Tao, Vedic, Sufi, Zen)",
+      "100. Death-Doula & Sacred Impermanence Remembrance Art",
+      "101. Golden Ratio & Harmonic Proportions Musical Canon",
+      "102. Pure White-on-Gold Illuminated Manuscript Page",
+      "103. Dawn First-Light Meditation Photography Series",
+      "104. Dissolution of Ego into the Ocean of Consciousness Animation",
+      "105. Universal Blessing Flag & Wind-Horse Prayer Print",
+      "106. The Living Tao: 81 Visual Meditations on the Dao De Jing",
+      "107. Anonymous Gift Art (Created with Zero Signature for the Commons)",
+      "108. Grand Synthesis: All 7 Chakras & 5 Elements Evolve Earth Masterwork"
+    ]
+  },
+  "art_contest_categories_total": 108,
+  "chakras": [
+    {
+      "number": 1,
+      "id": "root",
+      "sanskrit": "Muladhara",
+      "name": "1. Root Chakra (Muladhara) — Earth Survival, Safety & Sacred Ground",
+      "frequency_hz": 396,
+      "tao_element": "Earth / Deep Water Foundation",
+      "color": "#e53e3e",
+      "core_theme": "Physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror.",
+      "chakra_archetype_types": [
+        "1. The Bedrock Steward — Unshakeable somatic calm during market or life storms.",
+        "2. The Ancestral Pattern Breaker — Ends multi-generational poverty or hoarding loops.",
+        "3. The Soil & Sanctuary Builder — Invests in real land, clean water, food forests, and physical safety.",
+        "4. The Somatic Anchor — Checks feet, breath, and pelvic floor before making any financial move.",
+        "5. The Commons Protector — Ensures no member of the tribe falls below baseline survival dignity."
+      ],
+      "chakra_actionable_tips": [
+        "1. Never bypass the Root Chakra Safety Lock: keep 6 months of basic living costs completely outside any high-volatility wager.",
+        "2. Place both feet bare on the floor or earth and take 6 slow 4-second inhale / 8-second exhale breaths before clicking any stake button.",
+        "3. Clear micro-debts and cluttered survival bills first — every resolved obligation frees trapped Root life-force.",
+        "4. Direct a portion of your DAO votes toward tangible Earth regeneration (soil, clean water, housing sanctuaries).",
+        "5. Heal ancestral money trauma by writing down your family's oldest fear about money and consciously replacing it with a grounded safety rule."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Root Vessel — Welcomes root-level blessings, resources, and support without flinching or contracting.",
+            "2. The 396Hz Harmonic Receiver — Tunes the nervous system to 396Hz so Earth / Deep Water Foundation abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Root center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Root Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Root center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Root center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Root.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 396Hz sound transmission while relaxing physical tension around your Root area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Root growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Root vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Root Container — Holds high financial and emotional charge in the Root without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Earth / Deep Water Foundation equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Root without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Root vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Root stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Root relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Root reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Root feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Root Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Root Archer — Aims Earth / Deep Water Foundation energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror..",
+            "3. The Laser-Focused Creator — Channels Root life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Root Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Root wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Root-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror..",
+            "3. Eliminate 3 low-value distractions that drain your Root focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Root values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Root Sun — Naturally warms and stabilizes everyone around them through overflow of Earth / Deep Water Foundation coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Root cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 396Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Root domain.",
+            "5. The Living Transmission — Embodies physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Root baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Root journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror..",
+            "4. Practice sending silent 396Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Root presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Root Shadow Alchemist — Turns old wounds, fear, or scarcity in the Root into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Earth / Deep Water Foundation renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Root survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Root without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Root center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Root fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 396Hz sound to move frozen shadow energy out of the Root tissues.",
+            "5. Mentor someone currently walking through the exact Root challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Root × Tier 1 Anchor — Stabilizes physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. within the $0 – $500 Liquid Buffer band.",
+            "2. Root Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Earth / Deep Water Foundation harmony.",
+            "3. Root Value Builder — Grows root capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Root Commons Contributor — Uses Seed & Survival Grounding resources to advance root healing on Earth.",
+            "5. Root Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Root center stays 100% regulated.",
+            "2. Focus your Root practice on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Root coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Root self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Root and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Root × Tier 2 Anchor — Stabilizes physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Root Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Earth / Deep Water Foundation harmony.",
+            "3. Root Value Builder — Grows root capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Root Commons Contributor — Uses Grounded Stability resources to advance root healing on Earth.",
+            "5. Root Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Root center stays 100% regulated.",
+            "2. Focus your Root practice on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Root coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Root self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Root and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Root × Tier 3 Anchor — Stabilizes physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Root Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Earth / Deep Water Foundation harmony.",
+            "3. Root Value Builder — Grows root capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Root Commons Contributor — Uses Sovereign Flow resources to advance root healing on Earth.",
+            "5. Root Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Root center stays 100% regulated.",
+            "2. Focus your Root practice on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Root coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Root self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Root and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Root × Tier 4 Anchor — Stabilizes physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Root Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Earth / Deep Water Foundation harmony.",
+            "3. Root Value Builder — Grows root capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Root Commons Contributor — Uses Regenerative Steward resources to advance root healing on Earth.",
+            "5. Root Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Root center stays 100% regulated.",
+            "2. Focus your Root practice on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Root coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Root self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Root and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Root × Tier 5 Anchor — Stabilizes physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. within the $500,000+ Endowment Capacity band.",
+            "2. Root Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Earth / Deep Water Foundation harmony.",
+            "3. Root Value Builder — Grows root capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Root Commons Contributor — Uses Planetary Patron & Sage resources to advance root healing on Earth.",
+            "5. Root Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Root center stays 100% regulated.",
+            "2. Focus your Root practice on physical safety, nervous-system grounding, shelter, food, ancestral healing, and freedom from survival terror. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Root coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Root self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Root and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 2,
+      "id": "sacral",
+      "sanskrit": "Svadhisthana",
+      "name": "2. Sacral Chakra (Svadhisthana) — Creative Play, Emotional Flow & Joyful Abundance",
+      "frequency_hz": 417,
+      "tao_element": "Living Water (Shui 水)",
+      "color": "#dd6b20",
+      "core_theme": "Healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt.",
+      "chakra_archetype_types": [
+        "1. The Joyful Alchemist — Plays positive-sum DAO games as sacred play rather than desperate craving.",
+        "2. The Emotional Wave Rider — Feels losses and wins fully for 90 seconds without getting hooked into chasing.",
+        "3. The Creative Fountain — Channels emotional energy into music, visual reels, and captivating stories.",
+        "4. The Guilt-Free Receiver — Allows pleasure, beauty, and abundance in without Puritan self-punishment.",
+        "5. The Sacred Boundaried Lover — Connects deeply with others without merging financially or codependently."
+      ],
+      "chakra_actionable_tips": [
+        "1. Treat the 6 DAO Investing/Gambling games strictly as joyful play where losing a round still wins for Earth Healing — zero dopamine desperation.",
+        "2. If you feel compulsive 'chasing' heat in your lower belly, stop immediately and move your hips, swim, or create art for 15 minutes.",
+        "3. Budget a dedicated 'Sacred Play & Beauty' allocation (5%) that you are encouraged to enjoy guilt-free.",
+        "4. Use creative expression (voice, music, dance) before financial brainstorming to unlock non-linear abundance ideas.",
+        "5. Practice feeling raw emotion in the body for 90 seconds without numbing it through impulse spending or compulsive betting."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Sacral Vessel — Welcomes sacral-level blessings, resources, and support without flinching or contracting.",
+            "2. The 417Hz Harmonic Receiver — Tunes the nervous system to 417Hz so Living Water (Shui 水) abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Sacral center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Sacral Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Sacral center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Sacral center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Sacral.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 417Hz sound transmission while relaxing physical tension around your Sacral area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Sacral growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Sacral vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Sacral Container — Holds high financial and emotional charge in the Sacral without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Living Water (Shui 水) equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Sacral without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Sacral vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Sacral stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Sacral relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Sacral reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Sacral feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Sacral Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Sacral Archer — Aims Living Water (Shui 水) energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt..",
+            "3. The Laser-Focused Creator — Channels Sacral life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Sacral Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Sacral wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Sacral-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt..",
+            "3. Eliminate 3 low-value distractions that drain your Sacral focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Sacral values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Sacral Sun — Naturally warms and stabilizes everyone around them through overflow of Living Water (Shui 水) coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Sacral cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 417Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Sacral domain.",
+            "5. The Living Transmission — Embodies healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Sacral baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Sacral journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt..",
+            "4. Practice sending silent 417Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Sacral presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Sacral Shadow Alchemist — Turns old wounds, fear, or scarcity in the Sacral into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Living Water (Shui 水) renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Sacral survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Sacral without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Sacral center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Sacral fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 417Hz sound to move frozen shadow energy out of the Sacral tissues.",
+            "5. Mentor someone currently walking through the exact Sacral challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Sacral × Tier 1 Anchor — Stabilizes healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. within the $0 – $500 Liquid Buffer band.",
+            "2. Sacral Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Living Water (Shui 水) harmony.",
+            "3. Sacral Value Builder — Grows sacral capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Sacral Commons Contributor — Uses Seed & Survival Grounding resources to advance sacral healing on Earth.",
+            "5. Sacral Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Sacral center stays 100% regulated.",
+            "2. Focus your Sacral practice on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Sacral coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Sacral self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Sacral and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Sacral × Tier 2 Anchor — Stabilizes healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Sacral Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Living Water (Shui 水) harmony.",
+            "3. Sacral Value Builder — Grows sacral capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Sacral Commons Contributor — Uses Grounded Stability resources to advance sacral healing on Earth.",
+            "5. Sacral Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Sacral center stays 100% regulated.",
+            "2. Focus your Sacral practice on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Sacral coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Sacral self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Sacral and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Sacral × Tier 3 Anchor — Stabilizes healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Sacral Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Living Water (Shui 水) harmony.",
+            "3. Sacral Value Builder — Grows sacral capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Sacral Commons Contributor — Uses Sovereign Flow resources to advance sacral healing on Earth.",
+            "5. Sacral Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Sacral center stays 100% regulated.",
+            "2. Focus your Sacral practice on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Sacral coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Sacral self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Sacral and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Sacral × Tier 4 Anchor — Stabilizes healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Sacral Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Living Water (Shui 水) harmony.",
+            "3. Sacral Value Builder — Grows sacral capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Sacral Commons Contributor — Uses Regenerative Steward resources to advance sacral healing on Earth.",
+            "5. Sacral Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Sacral center stays 100% regulated.",
+            "2. Focus your Sacral practice on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Sacral coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Sacral self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Sacral and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Sacral × Tier 5 Anchor — Stabilizes healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. within the $500,000+ Endowment Capacity band.",
+            "2. Sacral Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Living Water (Shui 水) harmony.",
+            "3. Sacral Value Builder — Grows sacral capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Sacral Commons Contributor — Uses Planetary Patron & Sage resources to advance sacral healing on Earth.",
+            "5. Sacral Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Sacral center stays 100% regulated.",
+            "2. Focus your Sacral practice on healthy pleasure, emotional fluidity, playfulness without addiction, creative fertility, and enjoying wealth without guilt. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Sacral coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Sacral self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Sacral and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 3,
+      "id": "solar_plexus",
+      "sanskrit": "Manipura",
+      "name": "3. Solar Plexus Chakra (Manipura) — Sovereign Will, Courage & Right Action",
+      "frequency_hz": 528,
+      "tao_element": "Disciplined Fire & Wood Action",
+      "color": "#d69e2e",
+      "core_theme": "Self-worth, sovereign boundaries, disciplined execution, courage without domination, and Wu Wei mastery.",
+      "chakra_archetype_types": [
+        "1. The Wu Wei Warrior — Acts with decisive courage at the exact right moment without forcing outcomes.",
+        "2. The Sovereign Boundary Holder — Cannot be pressured by FOMO (Fear Of Missing Out), hype, or crowd mania.",
+        "3. The Honor-Bound Finisher — Completes every 7-day Sacred Gate Co-Op commitment they enter.",
+        "4. The Ego-Transcended Competitor — Loves high-excellence games while celebrating others' victories.",
+        "5. The Disciplined Builder — Turns inspired visions into daily, repeatable systems and shipped value."
+      ],
+      "chakra_actionable_tips": [
+        "1. Write down your exact entry and exit rule BEFORE starting any Prediction Market or Alchemy round, and obey it 100%.",
+        "2. Separate your core human worth from your net worth or token balance every single morning.",
+        "3. Use Game #5 (Soul Signature Sacred Gate Co-Op Quest) to strengthen willpower through daily kept promises to yourself.",
+        "4. Notice when ego pride wants to 'double down to prove I'm right' — bow to the Tao and step back instead.",
+        "5. Channel competitive fire into solving real ecological and mental-health bottlenecks for the DAO."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Solar Plexus Vessel — Welcomes solar plexus-level blessings, resources, and support without flinching or contracting.",
+            "2. The 528Hz Harmonic Receiver — Tunes the nervous system to 528Hz so Disciplined Fire & Wood Action abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Solar Plexus center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Solar Plexus Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Solar Plexus center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Solar Plexus center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Solar Plexus.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 528Hz sound transmission while relaxing physical tension around your Solar Plexus area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Solar Plexus growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Solar Plexus vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Solar Plexus Container — Holds high financial and emotional charge in the Solar Plexus without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Disciplined Fire & Wood Action equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Solar Plexus without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Solar Plexus vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Solar Plexus stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Solar Plexus relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Solar Plexus reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Solar Plexus feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Solar Plexus Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Solar Plexus Archer — Aims Disciplined Fire & Wood Action energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery..",
+            "3. The Laser-Focused Creator — Channels Solar Plexus life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Solar Plexus Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Solar Plexus wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Solar Plexus-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery..",
+            "3. Eliminate 3 low-value distractions that drain your Solar Plexus focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Solar Plexus values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Solar Plexus Sun — Naturally warms and stabilizes everyone around them through overflow of Disciplined Fire & Wood Action coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Solar Plexus cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 528Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Solar Plexus domain.",
+            "5. The Living Transmission — Embodies self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Solar Plexus baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Solar Plexus journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery..",
+            "4. Practice sending silent 528Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Solar Plexus presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Solar Plexus Shadow Alchemist — Turns old wounds, fear, or scarcity in the Solar Plexus into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Disciplined Fire & Wood Action renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Solar Plexus survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Solar Plexus without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Solar Plexus center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Solar Plexus fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 528Hz sound to move frozen shadow energy out of the Solar Plexus tissues.",
+            "5. Mentor someone currently walking through the exact Solar Plexus challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Solar Plexus × Tier 1 Anchor — Stabilizes self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. within the $0 – $500 Liquid Buffer band.",
+            "2. Solar Plexus Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Disciplined Fire & Wood Action harmony.",
+            "3. Solar Plexus Value Builder — Grows solar plexus capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Solar Plexus Commons Contributor — Uses Seed & Survival Grounding resources to advance solar plexus healing on Earth.",
+            "5. Solar Plexus Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Solar Plexus center stays 100% regulated.",
+            "2. Focus your Solar Plexus practice on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Solar Plexus coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Solar Plexus self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Solar Plexus and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Solar Plexus × Tier 2 Anchor — Stabilizes self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Solar Plexus Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Disciplined Fire & Wood Action harmony.",
+            "3. Solar Plexus Value Builder — Grows solar plexus capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Solar Plexus Commons Contributor — Uses Grounded Stability resources to advance solar plexus healing on Earth.",
+            "5. Solar Plexus Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Solar Plexus center stays 100% regulated.",
+            "2. Focus your Solar Plexus practice on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Solar Plexus coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Solar Plexus self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Solar Plexus and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Solar Plexus × Tier 3 Anchor — Stabilizes self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Solar Plexus Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Disciplined Fire & Wood Action harmony.",
+            "3. Solar Plexus Value Builder — Grows solar plexus capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Solar Plexus Commons Contributor — Uses Sovereign Flow resources to advance solar plexus healing on Earth.",
+            "5. Solar Plexus Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Solar Plexus center stays 100% regulated.",
+            "2. Focus your Solar Plexus practice on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Solar Plexus coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Solar Plexus self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Solar Plexus and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Solar Plexus × Tier 4 Anchor — Stabilizes self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Solar Plexus Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Disciplined Fire & Wood Action harmony.",
+            "3. Solar Plexus Value Builder — Grows solar plexus capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Solar Plexus Commons Contributor — Uses Regenerative Steward resources to advance solar plexus healing on Earth.",
+            "5. Solar Plexus Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Solar Plexus center stays 100% regulated.",
+            "2. Focus your Solar Plexus practice on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Solar Plexus coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Solar Plexus self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Solar Plexus and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Solar Plexus × Tier 5 Anchor — Stabilizes self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. within the $500,000+ Endowment Capacity band.",
+            "2. Solar Plexus Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Disciplined Fire & Wood Action harmony.",
+            "3. Solar Plexus Value Builder — Grows solar plexus capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Solar Plexus Commons Contributor — Uses Planetary Patron & Sage resources to advance solar plexus healing on Earth.",
+            "5. Solar Plexus Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Solar Plexus center stays 100% regulated.",
+            "2. Focus your Solar Plexus practice on self-worth, sovereign boundaries, disciplined execution, courage without domination, and wu wei mastery. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Solar Plexus coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Solar Plexus self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Solar Plexus and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 4,
+      "id": "heart",
+      "sanskrit": "Anahata",
+      "name": "4. Heart Chakra (Anahata) — Unconditional Compassion, Reciprocity & Coherence",
+      "frequency_hz": 639,
+      "tao_element": "Harmonious Fire (Huo 火) & First Treasure (Ci 慈)",
+      "color": "#38a169",
+      "core_theme": "First Treasure of the Tao (Ci / Compassion), nervous-system co-regulation, forgiveness, and circulation between self and world.",
+      "chakra_archetype_types": [
+        "1. The Coherent Heart Anchor — Slows down collective panic simply by entering a room or governance thread.",
+        "2. The Sacred Reciprocity Weaver — Gives generously without martyrdom and receives gratefully without debt.",
+        "3. The Bridge Healer — Wins De-Polarization bounties by helping enemies truly hear each other.",
+        "4. The First-Treasure Guardian — Audits every DAO proposal through the lens of 'Does this genuinely heal minds and Earth?'",
+        "5. The Grief-to-Love Alchemist — Allows heartbreak over the world's pain to soften into fierce, practical care."
+      ],
+      "chakra_actionable_tips": [
+        "1. Before staking or voting, place one hand on your chest and tune into genuine gratitude for 60 seconds (measurable HeartMath coherence).",
+        "2. Dedicate a fixed percentage of every investment win directly to a healer or sanctuary that moved your heart.",
+        "3. Never give from resentment or people-pleasing — only give what your heart can release with 100% joy.",
+        "4. Forgive yourself completely for every past financial mistake so old shame stops sabotaging new abundance.",
+        "5. Use TheOneTrueDAO Resonance Matchmaking to partner with co-creators whose heart integrity matches yours."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Heart Vessel — Welcomes heart-level blessings, resources, and support without flinching or contracting.",
+            "2. The 639Hz Harmonic Receiver — Tunes the nervous system to 639Hz so Harmonious Fire (Huo 火) & First Treasure (Ci 慈) abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Heart center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Heart Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Heart center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Heart center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Heart.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 639Hz sound transmission while relaxing physical tension around your Heart area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Heart growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Heart vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Heart Container — Holds high financial and emotional charge in the Heart without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Harmonious Fire (Huo 火) & First Treasure (Ci 慈) equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Heart without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Heart vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Heart stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Heart relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Heart reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Heart feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Heart Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Heart Archer — Aims Harmonious Fire (Huo 火) & First Treasure (Ci 慈) energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world..",
+            "3. The Laser-Focused Creator — Channels Heart life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Heart Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Heart wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Heart-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world..",
+            "3. Eliminate 3 low-value distractions that drain your Heart focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Heart values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Heart Sun — Naturally warms and stabilizes everyone around them through overflow of Harmonious Fire (Huo 火) & First Treasure (Ci 慈) coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Heart cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 639Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Heart domain.",
+            "5. The Living Transmission — Embodies first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Heart baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Heart journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world..",
+            "4. Practice sending silent 639Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Heart presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Heart Shadow Alchemist — Turns old wounds, fear, or scarcity in the Heart into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Harmonious Fire (Huo 火) & First Treasure (Ci 慈) renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Heart survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Heart without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Heart center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Heart fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 639Hz sound to move frozen shadow energy out of the Heart tissues.",
+            "5. Mentor someone currently walking through the exact Heart challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Heart × Tier 1 Anchor — Stabilizes first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. within the $0 – $500 Liquid Buffer band.",
+            "2. Heart Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Harmonious Fire (Huo 火) & First Treasure (Ci 慈) harmony.",
+            "3. Heart Value Builder — Grows heart capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Heart Commons Contributor — Uses Seed & Survival Grounding resources to advance heart healing on Earth.",
+            "5. Heart Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Heart center stays 100% regulated.",
+            "2. Focus your Heart practice on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Heart coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Heart self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Heart and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Heart × Tier 2 Anchor — Stabilizes first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Heart Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Harmonious Fire (Huo 火) & First Treasure (Ci 慈) harmony.",
+            "3. Heart Value Builder — Grows heart capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Heart Commons Contributor — Uses Grounded Stability resources to advance heart healing on Earth.",
+            "5. Heart Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Heart center stays 100% regulated.",
+            "2. Focus your Heart practice on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Heart coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Heart self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Heart and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Heart × Tier 3 Anchor — Stabilizes first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Heart Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Harmonious Fire (Huo 火) & First Treasure (Ci 慈) harmony.",
+            "3. Heart Value Builder — Grows heart capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Heart Commons Contributor — Uses Sovereign Flow resources to advance heart healing on Earth.",
+            "5. Heart Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Heart center stays 100% regulated.",
+            "2. Focus your Heart practice on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Heart coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Heart self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Heart and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Heart × Tier 4 Anchor — Stabilizes first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Heart Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Harmonious Fire (Huo 火) & First Treasure (Ci 慈) harmony.",
+            "3. Heart Value Builder — Grows heart capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Heart Commons Contributor — Uses Regenerative Steward resources to advance heart healing on Earth.",
+            "5. Heart Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Heart center stays 100% regulated.",
+            "2. Focus your Heart practice on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Heart coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Heart self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Heart and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Heart × Tier 5 Anchor — Stabilizes first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. within the $500,000+ Endowment Capacity band.",
+            "2. Heart Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Harmonious Fire (Huo 火) & First Treasure (Ci 慈) harmony.",
+            "3. Heart Value Builder — Grows heart capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Heart Commons Contributor — Uses Planetary Patron & Sage resources to advance heart healing on Earth.",
+            "5. Heart Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Heart center stays 100% regulated.",
+            "2. Focus your Heart practice on first treasure of the tao (ci / compassion), nervous-system co-regulation, forgiveness, and circulation between self and world. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Heart coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Heart self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Heart and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 5,
+      "id": "throat",
+      "sanskrit": "Vishuddha",
+      "name": "5. Throat Chakra (Vishuddha) — Deep Listening, Authentic Voice & Sacred Word",
+      "frequency_hz": 741,
+      "tao_element": "Resonant Metal (Jin 金) & Ether",
+      "color": "#3182ce",
+      "core_theme": "Tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing.",
+      "chakra_archetype_types": [
+        "1. The Deep Listener — Hears the unspoken wound beneath a person's words before responding.",
+        "2. The Voice-True Transmitter — Speaks and creates media with zero fake persona or manipulative sales hype.",
+        "3. The Covenant Keeper — Treats every spoken word and smart-contract pledge as sacred law.",
+        "4. The Harmonic Sound Healer — Uses voice, mantra, and beat-locked frequency to shift nervous systems.",
+        "5. The Truth-Telling Auditor — Calls out hype, greenwashing, or dishonesty in DAO proposals with calm precision."
+      ],
+      "chakra_actionable_tips": [
+        "1. Practice Evolve Earth's core vow before speaking or posting: pause 3 seconds to listen deeper than words.",
+        "2. Never promote, shill, or invest in any project you wouldn't proudly explain to your wisest elder or child.",
+        "3. Speak your financial needs, boundaries, and prices clearly without shrinking or apologizing.",
+        "4. Use humming, chanting, or singing for 5 minutes to stimulate the vagus nerve before high-stakes conversations.",
+        "5. Write clear, plain-English DAO proposals with zero deceptive jargon so every community member can understand them."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Throat Vessel — Welcomes throat-level blessings, resources, and support without flinching or contracting.",
+            "2. The 741Hz Harmonic Receiver — Tunes the nervous system to 741Hz so Resonant Metal (Jin 金) & Ether abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Throat center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Throat Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Throat center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Throat center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Throat.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 741Hz sound transmission while relaxing physical tension around your Throat area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Throat growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Throat vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Throat Container — Holds high financial and emotional charge in the Throat without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Resonant Metal (Jin 金) & Ether equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Throat without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Throat vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Throat stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Throat relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Throat reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Throat feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Throat Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Throat Archer — Aims Resonant Metal (Jin 金) & Ether energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing..",
+            "3. The Laser-Focused Creator — Channels Throat life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Throat Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Throat wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Throat-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing..",
+            "3. Eliminate 3 low-value distractions that drain your Throat focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Throat values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Throat Sun — Naturally warms and stabilizes everyone around them through overflow of Resonant Metal (Jin 金) & Ether coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Throat cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 741Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Throat domain.",
+            "5. The Living Transmission — Embodies tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Throat baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Throat journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing..",
+            "4. Practice sending silent 741Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Throat presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Throat Shadow Alchemist — Turns old wounds, fear, or scarcity in the Throat into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Resonant Metal (Jin 金) & Ether renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Throat survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Throat without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Throat center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Throat fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 741Hz sound to move frozen shadow energy out of the Throat tissues.",
+            "5. Mentor someone currently walking through the exact Throat challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Throat × Tier 1 Anchor — Stabilizes tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. within the $0 – $500 Liquid Buffer band.",
+            "2. Throat Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Resonant Metal (Jin 金) & Ether harmony.",
+            "3. Throat Value Builder — Grows throat capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Throat Commons Contributor — Uses Seed & Survival Grounding resources to advance throat healing on Earth.",
+            "5. Throat Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Throat center stays 100% regulated.",
+            "2. Focus your Throat practice on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Throat coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Throat self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Throat and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Throat × Tier 2 Anchor — Stabilizes tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Throat Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Resonant Metal (Jin 金) & Ether harmony.",
+            "3. Throat Value Builder — Grows throat capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Throat Commons Contributor — Uses Grounded Stability resources to advance throat healing on Earth.",
+            "5. Throat Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Throat center stays 100% regulated.",
+            "2. Focus your Throat practice on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Throat coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Throat self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Throat and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Throat × Tier 3 Anchor — Stabilizes tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Throat Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Resonant Metal (Jin 金) & Ether harmony.",
+            "3. Throat Value Builder — Grows throat capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Throat Commons Contributor — Uses Sovereign Flow resources to advance throat healing on Earth.",
+            "5. Throat Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Throat center stays 100% regulated.",
+            "2. Focus your Throat practice on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Throat coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Throat self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Throat and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Throat × Tier 4 Anchor — Stabilizes tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Throat Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Resonant Metal (Jin 金) & Ether harmony.",
+            "3. Throat Value Builder — Grows throat capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Throat Commons Contributor — Uses Regenerative Steward resources to advance throat healing on Earth.",
+            "5. Throat Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Throat center stays 100% regulated.",
+            "2. Focus your Throat practice on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Throat coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Throat self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Throat and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Throat × Tier 5 Anchor — Stabilizes tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. within the $500,000+ Endowment Capacity band.",
+            "2. Throat Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Resonant Metal (Jin 金) & Ether harmony.",
+            "3. Throat Value Builder — Grows throat capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Throat Commons Contributor — Uses Planetary Patron & Sage resources to advance throat healing on Earth.",
+            "5. Throat Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Throat center stays 100% regulated.",
+            "2. Focus your Throat practice on tuning in and listening deeper than words, speaking unvarnished truth with kindness, and harmonic sound healing. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Throat coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Throat self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Throat and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 6,
+      "id": "third_eye",
+      "sanskrit": "Ajna",
+      "name": "6. Third Eye Chakra (Ajna) — Clear Seeing, Pattern Recognition & Non-Dual Insight",
+      "frequency_hz": 852,
+      "tao_element": "Luminous Light & Still Water Mirror",
+      "color": "#5a67d8",
+      "core_theme": "Seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting Yin-Yang opposites.",
+      "chakra_archetype_types": [
+        "1. The Still-Water Mirror — Reflects reality accurately without projecting personal fear or wishful thinking.",
+        "2. The 7-Generation Systems Seer — Evaluates how today's DAO allocation ripples out 50 years into the future.",
+        "3. The I Ching Pattern Reader — Understands cyclical turning points (when Yang peaks and turns to Yin).",
+        "4. The Illusion Piercer — Spots Ponzi mechanics, ego traps, and false spiritual bypassing instantly.",
+        "5. The Visionary Architect — Synthesizes art, AI, cryptography, and ancient wisdom into living tools."
+      ],
+      "chakra_actionable_tips": [
+        "1. Test every intuitive hunch against grounded Metal data (on-chain math + Five-Element AI scores) so intuition and logic work as one.",
+        "2. Study the 64 Hexagrams in Game #2 to train your mind to recognize natural cycles of expansion and retreat.",
+        "3. Reduce screen noise and algorithmic doom-scrolling for 1 hour before sleep to keep your inner vision crystal clear.",
+        "4. When faced with a polarized conflict, look for the hidden third path that honors the deepest truth of both sides.",
+        "5. Keep a 'Prediction & Intuition Journal' to calibrate when your gut feeling was pure insight vs. disguised fear."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Third Eye Vessel — Welcomes third eye-level blessings, resources, and support without flinching or contracting.",
+            "2. The 852Hz Harmonic Receiver — Tunes the nervous system to 852Hz so Luminous Light & Still Water Mirror abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Third Eye center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Third Eye Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Third Eye center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Third Eye center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Third Eye.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 852Hz sound transmission while relaxing physical tension around your Third Eye area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Third Eye growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Third Eye vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Third Eye Container — Holds high financial and emotional charge in the Third Eye without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm Luminous Light & Still Water Mirror equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Third Eye without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Third Eye vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Third Eye stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Third Eye relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Third Eye reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Third Eye feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Third Eye Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Third Eye Archer — Aims Luminous Light & Still Water Mirror energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites..",
+            "3. The Laser-Focused Creator — Channels Third Eye life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Third Eye Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Third Eye wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Third Eye-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites..",
+            "3. Eliminate 3 low-value distractions that drain your Third Eye focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Third Eye values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Third Eye Sun — Naturally warms and stabilizes everyone around them through overflow of Luminous Light & Still Water Mirror coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Third Eye cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 852Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Third Eye domain.",
+            "5. The Living Transmission — Embodies seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Third Eye baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Third Eye journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites..",
+            "4. Practice sending silent 852Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Third Eye presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Third Eye Shadow Alchemist — Turns old wounds, fear, or scarcity in the Third Eye into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for Luminous Light & Still Water Mirror renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Third Eye survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Third Eye without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Third Eye center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Third Eye fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 852Hz sound to move frozen shadow energy out of the Third Eye tissues.",
+            "5. Mentor someone currently walking through the exact Third Eye challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Third Eye × Tier 1 Anchor — Stabilizes seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. within the $0 – $500 Liquid Buffer band.",
+            "2. Third Eye Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating Luminous Light & Still Water Mirror harmony.",
+            "3. Third Eye Value Builder — Grows third eye capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Third Eye Commons Contributor — Uses Seed & Survival Grounding resources to advance third eye healing on Earth.",
+            "5. Third Eye Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Third Eye center stays 100% regulated.",
+            "2. Focus your Third Eye practice on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Third Eye coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Third Eye self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Third Eye and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Third Eye × Tier 2 Anchor — Stabilizes seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Third Eye Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating Luminous Light & Still Water Mirror harmony.",
+            "3. Third Eye Value Builder — Grows third eye capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Third Eye Commons Contributor — Uses Grounded Stability resources to advance third eye healing on Earth.",
+            "5. Third Eye Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Third Eye center stays 100% regulated.",
+            "2. Focus your Third Eye practice on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Third Eye coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Third Eye self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Third Eye and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Third Eye × Tier 3 Anchor — Stabilizes seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Third Eye Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating Luminous Light & Still Water Mirror harmony.",
+            "3. Third Eye Value Builder — Grows third eye capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Third Eye Commons Contributor — Uses Sovereign Flow resources to advance third eye healing on Earth.",
+            "5. Third Eye Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Third Eye center stays 100% regulated.",
+            "2. Focus your Third Eye practice on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Third Eye coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Third Eye self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Third Eye and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Third Eye × Tier 4 Anchor — Stabilizes seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Third Eye Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating Luminous Light & Still Water Mirror harmony.",
+            "3. Third Eye Value Builder — Grows third eye capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Third Eye Commons Contributor — Uses Regenerative Steward resources to advance third eye healing on Earth.",
+            "5. Third Eye Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Third Eye center stays 100% regulated.",
+            "2. Focus your Third Eye practice on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Third Eye coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Third Eye self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Third Eye and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Third Eye × Tier 5 Anchor — Stabilizes seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. within the $500,000+ Endowment Capacity band.",
+            "2. Third Eye Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating Luminous Light & Still Water Mirror harmony.",
+            "3. Third Eye Value Builder — Grows third eye capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Third Eye Commons Contributor — Uses Planetary Patron & Sage resources to advance third eye healing on Earth.",
+            "5. Third Eye Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Third Eye center stays 100% regulated.",
+            "2. Focus your Third Eye practice on seeing through illusion, long-term systems thinking, intuitive pattern recognition, and uniting yin-yang opposites. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Third Eye coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Third Eye self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Third Eye and the Planetary Commons."
+          ]
+        }
+      }
+    },
+    {
+      "number": 7,
+      "id": "crown",
+      "sanskrit": "Sahasrara",
+      "name": "7. Crown Chakra (Sahasrara) — Unity with the Tao, Selfless Service & Cosmic Trust",
+      "frequency_hz": 963,
+      "tao_element": "The Infinite Tao (Wu Ji 無極 -> Taiji 太極)",
+      "color": "#9f7aea",
+      "core_theme": "Non-separation from all minds and the Earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the Whole.",
+      "chakra_archetype_types": [
+        "1. The Hollow Bamboo — Lets the wisdom and abundance of the Tao flow through without claiming ego ownership.",
+        "2. The Planetary Steward — Experiences the healing of any forest or stranger's mind as their own healing.",
+        "3. The Cosmic Humorist — Holds life, wealth, and games with a light, joyful smile rather than grim attachment.",
+        "4. The Silent Contemplative — Anchors the DAO's Yin pole through deep meditation and wordless presence.",
+        "5. The Unity Catalyst — Designs protocols that dissolve artificial borders between humans, nature, and ethical AI."
+      ],
+      "chakra_actionable_tips": [
+        "1. Remember daily that all tokens, land, and talents belong to the living Whole — we are temporary stewards, never eternal owners.",
+        "2. Begin and end every DAO session by dedicating the merit and yield to the awakening and healing of all minds and the Earth.",
+        "3. Balance high-tech AI and crypto tools with daily silent communion with sky, trees, ocean, and breath.",
+        "4. Never turn spirituality into superiority — true Crown awakening always expresses itself as humble Root kindness.",
+        "5. Set up an autonomous legacy instruction in your Soul Signature canister so your blessings continue serving Earth long after your lifetime."
+      ],
+      "capacities": {
+        "receiving": {
+          "capacity_id": "receiving",
+          "capacity_name": "1. Receiving Capacity (Yin Inflow)",
+          "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth.",
+          "archetype_types": [
+            "1. The Open Crown Vessel — Welcomes crown-level blessings, resources, and support without flinching or contracting.",
+            "2. The 963Hz Harmonic Receiver — Tunes the nervous system to 963Hz so The Infinite Tao (Wu Ji 無極 -> Taiji 太極) abundance enters without resistance.",
+            "3. The Unarmored Listener — Drops defensive walls in the Crown center to hear truth and receive help gracefully.",
+            "4. The Worthy Inheritor — Heals the subconscious belief that receiving in the Crown Chakra is selfish or unsafe.",
+            "5. The Yin Valley Collector — Rests low like a mountain valley so nourishment naturally flows into the Crown center."
+          ],
+          "actionable_tips": [
+            "1. Breathe into your Crown center for 5 slow cycles while mentally repeating: 'It is safe and healing for the Whole when I receive in my Crown.'",
+            "2. Notice where you deflect compliments, gifts, or fair payment connected to non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole., and practice saying a simple, grounded 'Thank you.'",
+            "3. Listen to a 963Hz sound transmission while relaxing physical tension around your Crown area before reviewing finances.",
+            "4. Allow one trusted person or DAO circle to support you in your Crown growth this week without rushing to over-repay out of discomfort.",
+            "5. Clear one stagnant obligation or energetic leak so fresh Yin inflow has clean space to land in your Crown vessel."
+          ]
+        },
+        "holding": {
+          "capacity_id": "holding",
+          "capacity_name": "2. Holding Capacity (Earth Vessel)",
+          "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking.",
+          "archetype_types": [
+            "1. The Unshakeable Crown Container — Holds high financial and emotional charge in the Crown without impulse leaking.",
+            "2. The Still-Water Keeper — Maintains calm The Infinite Tao (Wu Ji 無極 -> Taiji 太極) equilibrium even when external markets or relationships surge.",
+            "3. The Somatic Pillar — Expands the physical nervous system's ceiling to sit with larger sums and deeper silence.",
+            "4. The Patient Cultivator — Lets compound healing and compound yield mature in the Crown without premature harvesting.",
+            "5. The Sacred Boundary Guardian — Protects the Crown vessel from energy vampires, panic sellers, and hype merchants."
+          ],
+          "actionable_tips": [
+            "1. When a financial win or intense emotion arrives, wait 48 hours in calm Crown stillness before making any major spending decision.",
+            "2. Practice holding a gentle isometric posture (plank, horse stance, or breath retention) while keeping your Crown relaxed under load.",
+            "3. Set up automatic No-Loss vault locks so your Crown reserve is protected from impulsive emotional swings.",
+            "4. Audit how you subtly 'blow off steam' when your Crown feels too full of success or visibility, and replace it with grounded breathing.",
+            "5. Journal on: 'What is the maximum peace, power, and wealth my Crown Chakra feels safe holding today — and how can I expand that by 10%?'"
+          ]
+        },
+        "directing": {
+          "capacity_id": "directing",
+          "capacity_name": "3. Directing Capacity (Yang Will)",
+          "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain.",
+          "archetype_types": [
+            "1. The Wu Wei Crown Archer — Aims The Infinite Tao (Wu Ji 無極 -> Taiji 太極) energy and capital at high-leverage healing targets without strain.",
+            "2. The Conscious Capital Conductor — Routes DAO votes and stakes directly toward non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole..",
+            "3. The Laser-Focused Creator — Channels Crown life-force into completed projects rather than scattered wishes.",
+            "4. The Sovereign Strategist — Aligns daily calendar and budget with the highest truth of the Crown Chakra.",
+            "5. The Intentional Voter — Uses Soul Signature weight to steer TheOneTrueDAO treasury with clear Crown wisdom."
+          ],
+          "actionable_tips": [
+            "1. Assign every dollar and every hour of your week a clear Crown-aligned mission before the week begins.",
+            "2. In TheOneTrueDAO Prediction & Resonance Markets, direct stakes only toward milestones that strengthen non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole..",
+            "3. Eliminate 3 low-value distractions that drain your Crown focus so 80% of your energy serves your #1 sacred goal.",
+            "4. Speak a clear, one-sentence intention aloud before clicking any investment, vote, or creative publish button.",
+            "5. Review your monthly outflows to verify your actual spending matches your stated Crown values."
+          ]
+        },
+        "radiating": {
+          "capacity_id": "radiating",
+          "capacity_name": "4. Radiating Capacity (Heart Overflow)",
+          "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches.",
+          "archetype_types": [
+            "1. The Crown Sun — Naturally warms and stabilizes everyone around them through overflow of The Infinite Tao (Wu Ji 無極 -> Taiji 太極) coherence.",
+            "2. The Generous Overflow Steward — Circulates yield and wisdom from a full Crown cup, never from depletion.",
+            "3. The Magnetic Beacon — Attracts aligned collaborators and opportunities effortlessly through 963Hz authenticity.",
+            "4. The Community Uplifter — Celebrates and amplifies other stewards' wins in the Crown domain.",
+            "5. The Living Transmission — Embodies non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. so tangibly that others heal simply by witnessing it."
+          ],
+          "actionable_tips": [
+            "1. Only radiate or give from the overflow above your Crown baseline reserve — keep your core vessel full so generosity stays joyful.",
+            "2. Share one hard-won lesson or breakthrough from your Crown journey with the DAO community to uplift peers.",
+            "3. Direct a portion of your No-Loss Prize Pool yield to sponsor frontline healers working on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole..",
+            "4. Practice sending silent 963Hz appreciation to every person you interact with in business or governance.",
+            "5. Measure your success not by what you hoard, but by how safe, inspired, and empowered people feel around your Crown presence."
+          ]
+        },
+        "transmuting": {
+          "capacity_id": "transmuting",
+          "capacity_name": "5. Transmuting Capacity (Alchemical Fire)",
+          "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold.",
+          "archetype_types": [
+            "1. The Crown Shadow Alchemist — Turns old wounds, fear, or scarcity in the Crown into deep compassion and gold.",
+            "2. The Compost Master — Uses setbacks, market dips, or heartbreak as fertile soil for The Infinite Tao (Wu Ji 無極 -> Taiji 太極) renewal.",
+            "3. The Trauma-to-Wisdom Weaver — Transforms personal Crown survival stories into healing medicines for the world.",
+            "4. The Phoenix Steward — Rises from obsolete identities or financial losses with cleaner Soul Signature coherence.",
+            "5. The Non-Dual Integrator — Embraces both the light and shadow of the Crown without judgment, unlocking total freedom."
+          ],
+          "actionable_tips": [
+            "1. Whenever a financial loss or trigger hits your Crown center, ask: 'What hidden attachment is this teaching me to release?'",
+            "2. Use the Zero-Knowledge Sacred Vault on ICP to write out your rawest Crown fear, then rewrite it as a sovereign Taoist principle.",
+            "3. Turn any losing round in the DAO arcade into conscious gratitude knowing 100% of the house flow just funded Earth & Mind healing.",
+            "4. Combine somatic shaking, breathwork, and 963Hz sound to move frozen shadow energy out of the Crown tissues.",
+            "5. Mentor someone currently walking through the exact Crown challenge you have already survived and integrated."
+          ]
+        }
+      },
+      "financial_tiers": {
+        "tier_1_seed": {
+          "financial_tier_id": "tier_1_seed",
+          "financial_tier_name": "Tier 1: Seed & Survival Grounding",
+          "range_label": "$0 – $500 Liquid Buffer",
+          "root_safety_lock_pct": 0.0,
+          "archetype_types": [
+            "1. Crown × Tier 1 Anchor — Stabilizes non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. within the $0 – $500 Liquid Buffer band.",
+            "2. Crown Safe-Flow Player — Honors the 0.0% Root Safety Lock while cultivating The Infinite Tao (Wu Ji 無極 -> Taiji 太極) harmony.",
+            "3. Crown Value Builder — Grows crown capacity steadily from $0 – $500 Liquid Buffer without nervous-system strain.",
+            "4. Crown Commons Contributor — Uses Seed & Survival Grounding resources to advance crown healing on Earth.",
+            "5. Crown Tao Steward — Balances Yin reserve and Yang action at the $0 – $500 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 1: Seed & Survival Grounding ($0 – $500 Liquid Buffer), cap any single session exposure at 0.0% so your Crown center stays 100% regulated.",
+            "2. Focus your Crown practice on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. before scaling to the next financial tier.",
+            "3. Route your Tier 1 participation through No-Loss and Co-Op games that strengthen your Crown coherence score.",
+            "4. Pair every financial milestone in $0 – $500 Liquid Buffer with a concrete upgrade in your Crown self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 1 capital serves both your Crown and the Planetary Commons."
+          ]
+        },
+        "tier_2_stability": {
+          "financial_tier_id": "tier_2_stability",
+          "financial_tier_name": "Tier 2: Grounded Stability",
+          "range_label": "$500 – $5,000 Liquid Buffer",
+          "root_safety_lock_pct": 1.0,
+          "archetype_types": [
+            "1. Crown × Tier 2 Anchor — Stabilizes non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. within the $500 – $5,000 Liquid Buffer band.",
+            "2. Crown Safe-Flow Player — Honors the 1.0% Root Safety Lock while cultivating The Infinite Tao (Wu Ji 無極 -> Taiji 太極) harmony.",
+            "3. Crown Value Builder — Grows crown capacity steadily from $500 – $5,000 Liquid Buffer without nervous-system strain.",
+            "4. Crown Commons Contributor — Uses Grounded Stability resources to advance crown healing on Earth.",
+            "5. Crown Tao Steward — Balances Yin reserve and Yang action at the $500 – $5,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 2: Grounded Stability ($500 – $5,000 Liquid Buffer), cap any single session exposure at 1.0% so your Crown center stays 100% regulated.",
+            "2. Focus your Crown practice on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. before scaling to the next financial tier.",
+            "3. Route your Tier 2 participation through No-Loss and Co-Op games that strengthen your Crown coherence score.",
+            "4. Pair every financial milestone in $500 – $5,000 Liquid Buffer with a concrete upgrade in your Crown self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 2 capital serves both your Crown and the Planetary Commons."
+          ]
+        },
+        "tier_3_flow": {
+          "financial_tier_id": "tier_3_flow",
+          "financial_tier_name": "Tier 3: Sovereign Flow",
+          "range_label": "$5,000 – $50,000 Liquid Buffer",
+          "root_safety_lock_pct": 2.0,
+          "archetype_types": [
+            "1. Crown × Tier 3 Anchor — Stabilizes non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. within the $5,000 – $50,000 Liquid Buffer band.",
+            "2. Crown Safe-Flow Player — Honors the 2.0% Root Safety Lock while cultivating The Infinite Tao (Wu Ji 無極 -> Taiji 太極) harmony.",
+            "3. Crown Value Builder — Grows crown capacity steadily from $5,000 – $50,000 Liquid Buffer without nervous-system strain.",
+            "4. Crown Commons Contributor — Uses Sovereign Flow resources to advance crown healing on Earth.",
+            "5. Crown Tao Steward — Balances Yin reserve and Yang action at the $5,000 – $50,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 3: Sovereign Flow ($5,000 – $50,000 Liquid Buffer), cap any single session exposure at 2.0% so your Crown center stays 100% regulated.",
+            "2. Focus your Crown practice on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. before scaling to the next financial tier.",
+            "3. Route your Tier 3 participation through No-Loss and Co-Op games that strengthen your Crown coherence score.",
+            "4. Pair every financial milestone in $5,000 – $50,000 Liquid Buffer with a concrete upgrade in your Crown self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 3 capital serves both your Crown and the Planetary Commons."
+          ]
+        },
+        "tier_4_steward": {
+          "financial_tier_id": "tier_4_steward",
+          "financial_tier_name": "Tier 4: Regenerative Steward",
+          "range_label": "$50,000 – $500,000 Liquid Buffer",
+          "root_safety_lock_pct": 3.0,
+          "archetype_types": [
+            "1. Crown × Tier 4 Anchor — Stabilizes non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. within the $50,000 – $500,000 Liquid Buffer band.",
+            "2. Crown Safe-Flow Player — Honors the 3.0% Root Safety Lock while cultivating The Infinite Tao (Wu Ji 無極 -> Taiji 太極) harmony.",
+            "3. Crown Value Builder — Grows crown capacity steadily from $50,000 – $500,000 Liquid Buffer without nervous-system strain.",
+            "4. Crown Commons Contributor — Uses Regenerative Steward resources to advance crown healing on Earth.",
+            "5. Crown Tao Steward — Balances Yin reserve and Yang action at the $50,000 – $500,000 Liquid Buffer level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 4: Regenerative Steward ($50,000 – $500,000 Liquid Buffer), cap any single session exposure at 3.0% so your Crown center stays 100% regulated.",
+            "2. Focus your Crown practice on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. before scaling to the next financial tier.",
+            "3. Route your Tier 4 participation through No-Loss and Co-Op games that strengthen your Crown coherence score.",
+            "4. Pair every financial milestone in $50,000 – $500,000 Liquid Buffer with a concrete upgrade in your Crown self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 4 capital serves both your Crown and the Planetary Commons."
+          ]
+        },
+        "tier_5_planetary": {
+          "financial_tier_id": "tier_5_planetary",
+          "financial_tier_name": "Tier 5: Planetary Patron & Sage",
+          "range_label": "$500,000+ Endowment Capacity",
+          "root_safety_lock_pct": 5.0,
+          "archetype_types": [
+            "1. Crown × Tier 5 Anchor — Stabilizes non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. within the $500,000+ Endowment Capacity band.",
+            "2. Crown Safe-Flow Player — Honors the 5.0% Root Safety Lock while cultivating The Infinite Tao (Wu Ji 無極 -> Taiji 太極) harmony.",
+            "3. Crown Value Builder — Grows crown capacity steadily from $500,000+ Endowment Capacity without nervous-system strain.",
+            "4. Crown Commons Contributor — Uses Planetary Patron & Sage resources to advance crown healing on Earth.",
+            "5. Crown Tao Steward — Balances Yin reserve and Yang action at the $500,000+ Endowment Capacity level."
+          ],
+          "actionable_tips": [
+            "1. At Tier 5: Planetary Patron & Sage ($500,000+ Endowment Capacity), cap any single session exposure at 5.0% so your Crown center stays 100% regulated.",
+            "2. Focus your Crown practice on non-separation from all minds and the earth, ego-transcendence, cosmic trust, and holding wealth as a temporary steward of the whole. before scaling to the next financial tier.",
+            "3. Route your Tier 5 participation through No-Loss and Co-Op games that strengthen your Crown coherence score.",
+            "4. Pair every financial milestone in $500,000+ Endowment Capacity with a concrete upgrade in your Crown self-care and boundaries.",
+            "5. Use TheOneTrueDAO Five-Element AI audit to ensure your Tier 5 capital serves both your Crown and the Planetary Commons."
+          ]
+        }
+      }
+    }
+  ],
+  "financial_capacities": [
+    {
+      "id": "tier_1_seed",
+      "tier_number": 1,
+      "name": "Tier 1: Seed & Survival Grounding",
+      "range_label": "$0 – $500 Liquid Buffer",
+      "max_wager_pct_of_buffer": 0.0,
+      "safety_lock_rule": "Hard-Coded 0% Principal Risk Lock: Plays exclusively with No-Loss Free-Roll Service Credits earned from meditation, breathwork, or community listening so survival money is never endangered.",
+      "tao_principle": "Root Preservation (Bao Ben 保本) — Never gamble with the seed corn that feeds your body and nervous system.",
+      "archetype_types": [
+        "1. The Sacred Seed Keeper — Protects basic shelter and food first while building inner stillness.",
+        "2. The Alchemical Apprentice — Trades time, deep listening, and community service instead of scarce cash.",
+        "3. The Scarcity Transmuter — Catches survival panic in the body and breathes it back into grounded presence.",
+        "4. The Humble Sprout — Celebrates small $5–$20 automatic savings milestones without comparing to whales.",
+        "5. The Zero-Risk Explorer — Uses TheOneTrueDAO Free-Roll Healing Quests to win grants without risking rent money."
+      ],
+      "actionable_tips": [
+        "1. Keep 100% of rent, food, and bills locked outside any volatile token or wager — the DAO contract automatically blocks cash risk in Tier 1.",
+        "2. Enter the 'Soul Signature Co-Op Quest' using sweat-equity service credits (completing 7 days of nervous-system check-ins) to earn initial DAO stake.",
+        "3. Practice a 3-minute Root Chakra exhale before checking bank balances so cortisol never drives financial decisions.",
+        "4. Build your first $500 Sacred Buffer in an untouchable vault before unlocking Tier 2 staking.",
+        "5. Offer one verified peer-listening or community healing act per week to mint Soul Signature coherence weight for free."
+      ]
+    },
+    {
+      "id": "tier_2_stability",
+      "tier_number": 2,
+      "name": "Tier 2: Grounded Stability",
+      "range_label": "$500 – $5,000 Liquid Buffer",
+      "max_wager_pct_of_buffer": 1.0,
+      "safety_lock_rule": "Hard-Coded 1.0% Session Ceiling: Smart contract caps total session exposure at 1% of declared buffer and enforces automatic No-Loss Pool routing for 80% of stakes.",
+      "tao_principle": "Steady Vessel (Zhi Zu 知足 — Dao De Jing Ch. 44) — Knowing what is enough creates unshakeable endurance.",
+      "archetype_types": [
+        "1. The Well-Builder — Digs a reliable financial well before chasing exotic rainstorms.",
+        "2. The No-Loss Gardener — Stakes principal in the Wu Wei No-Loss Prize Pool so principal never shrinks.",
+        "3. The Rhythm Investor — Automates small weekly contributions aligned with lunar and seasonal cycles.",
+        "4. The Nervous-System Guardian — Notices excitement spikes and stops immediately when heart rate rises.",
+        "5. The Reciprocal Builder — Splits every windfall 70% into personal reserve, 20% skill growth, 10% Earth healing."
+      ],
+      "actionable_tips": [
+        "1. Allocate at least 80% of DAO gaming activity to Game #1 (Wu Wei No-Loss Prize Pool) where your principal remains 100% redeemable.",
+        "2. Never exceed the hard-coded 1% session cap ($5–$50 max exposure) on multiplier games.",
+        "3. Pair every financial investment with a physical body practice (walking, qigong, cold water) to expand your vessel's holding capacity.",
+        "4. Track every inflow and outflow weekly with gratitude rather than avoidance.",
+        "5. Reinvest yield into learning high-leverage creative or technical skills that multiply your baseline income."
+      ]
+    },
+    {
+      "id": "tier_3_flow",
+      "tier_number": 3,
+      "name": "Tier 3: Sovereign Flow",
+      "range_label": "$5,000 – $50,000 Liquid Buffer",
+      "max_wager_pct_of_buffer": 2.0,
+      "safety_lock_rule": "Hard-Coded 2.0% Session Ceiling + Automatic 24h Cool-Down if 3 consecutive Yang wagers miss.",
+      "tao_principle": "Flowing Water (Shang Shan Ruo Shui 上善若水 — Ch. 8) — Capital moves where it nourishes life and returns multiplied.",
+      "archetype_types": [
+        "1. The River Navigator — Reads market and emotional currents without fighting the rapids.",
+        "2. The Resonance Forecaster — Excels at Game #4 (Impact Prediction Markets) by sensing authentic projects early.",
+        "3. The Five-Element Balancer — Spreads capital evenly across Water (reserve), Wood (growth), Fire (art), Earth (yield), and Metal (security).",
+        "4. The Sovereign Creator — Uses yield to buy back personal time for deep creative and spiritual work.",
+        "5. The Co-Op Catalyst — Anchors Soul Signature group quests that lift dozens of Tier 1 & Tier 2 members."
+      ],
+      "actionable_tips": [
+        "1. Divide your active DAO capital into the Five Elements: 25% No-Loss Reserve (Water), 25% Regenerative Growth (Wood), 20% Prediction Markets (Fire), 15% Co-Op Pools (Earth), 15% Hard Cold Storage (Metal).",
+        "2. Use Game #4 (Planetary Healing Prediction Markets) to back frontline healers whose Soul Signature coherence you have personally audited.",
+        "3. Take 33% of every winning jackpot off the table immediately into long-term sovereign storage.",
+        "4. Never play or trade when tired, hungry, lonely, or seeking ego validation.",
+        "5. Sponsor at least one Tier 1 apprentice's entry into a Sacred Gate Co-Op Quest each month."
+      ]
+    },
+    {
+      "id": "tier_4_steward",
+      "tier_number": 4,
+      "name": "Tier 4: Regenerative Steward",
+      "range_label": "$50,000 – $500,000 Liquid Buffer",
+      "max_wager_pct_of_buffer": 3.0,
+      "safety_lock_rule": "Hard-Coded 3.0% Session Ceiling + Water-Law 1.618% Governance Cap so capital empowers the Commons without dominating it.",
+      "tao_principle": "Nourishing Without Possessing (Sheng Er Bu You 生而不有 — Ch. 10) — Give birth to projects and set them free.",
+      "archetype_types": [
+        "1. The Sanctuary Architect — Uses yield to fund physical retreat land, food forests, and healing hubs.",
+        "2. The Liquidity Spring — Seeds No-Loss Prize Pools so thousands of smaller players can win healing grants.",
+        "3. The Shadow-Tested Leader — Has integrated personal greed and power shadows so wealth amplifies humility.",
+        "4. The Ecological Underwriter — Backs high-impact Earth restoration milestones in Prediction Markets.",
+        "5. The Wisdom Patron — Funds open-source AI alignment, sacred music, and trauma-healing tools."
+      ],
+      "actionable_tips": [
+        "1. Act as a 'Liquidity Spring' in Game #1 (No-Loss Prize Pool), dedicating a portion of your yield to supercharge jackpots for verified healers.",
+        "2. Keep your idle-days counter near zero by voting weekly on Five-Element healing proposals (avoiding the 3.65%/yr Ch. 77 hoarding decay).",
+        "3. Audit your own nervous system before large allocations: ask 'Am I acting from Heart overflow (Yin-Yang balance) or Solar Plexus conquest?'",
+        "4. Structure long-term ICP canister endowments that pay out automatically to regenerative causes over 10+ years.",
+        "5. Pair every major financial deployment with anonymous mentorship or community space-holding."
+      ]
+    },
+    {
+      "id": "tier_5_planetary",
+      "tier_number": 5,
+      "name": "Tier 5: Planetary Patron & Sage",
+      "range_label": "$500,000+ Endowment Capacity",
+      "max_wager_pct_of_buffer": 5.0,
+      "safety_lock_rule": "Hard-Coded 5.0% Session Ceiling + Strict 1.618% Golden Ratio Governance Cap + Mandatory Ch. 77 Excess-to-Commons Circulation.",
+      "tao_principle": "The Way of Heaven (Tian Zhi Dao 天之道 — Ch. 77) — Reducing excess and replenishing deficiency across the whole Earth.",
+      "archetype_types": [
+        "1. The Invisible Sage — Moves planetary resources so seamlessly that communities say 'We did this ourselves' (Ch. 17).",
+        "2. The Eternal Endowment Founder — Locks multi-decade black-holed canisters that protect forests, waters, and sanctuaries forever.",
+        "3. The De-Polarization Benefactor — Seeds prize pools that reward conflict-zone bridge-builders for verified deep listening.",
+        "4. The Open-Source Guardian — Sponsors decentralized Bittensor & ICP nodes that keep healing AI free for humanity.",
+        "5. The Ocean of Humility — Rests at the lowest elevation like the sea, receiving all streams and evaporating rain back to the mountains."
+      ],
+      "actionable_tips": [
+        "1. Embrace the 1.618% Water-Law governance cap joyfully — prove that true planetary influence comes from Soul Signature coherence, not buying votes.",
+        "2. Seed permanent 'Eternal Lotus' No-Loss Prize Pools on ICP whose principal can never be withdrawn and whose yield funds world healing forever.",
+        "3. Fund cross-cultural De-Polarization Quests where opposing groups earn treasury bounties only when both sides reach verified heart coherence.",
+        "4. Keep zero personal attachment to credit or fame; let the open-source protocol carry the work across generations.",
+        "5. Balance massive outer Yang philanthropy with deep daily Yin silence so your nervous system stays clear as glass."
+      ]
+    }
+  ],
+  "chakra_capacities_meta": [
+    {
+      "id": "receiving",
+      "name": "1. Receiving Capacity (Yin Inflow)",
+      "tao_aspect": "The Valley Spirit (Gu Shen 谷神 — Ch. 6) — Open, receptive, uncontracted allowing of life, wealth, love, and truth."
+    },
+    {
+      "id": "holding",
+      "name": "2. Holding Capacity (Earth Vessel)",
+      "tao_aspect": "The Uncarved Block (Pu 樸 — Ch. 28) — Nervous-system strength to contain high charge, wealth, and stillness without leaking."
+    },
+    {
+      "id": "directing",
+      "name": "3. Directing Capacity (Yang Will)",
+      "tao_aspect": "Effortless Aim (Wu Wei Zhi Wei 無為之為) — Focusing energy and capital with laser clarity and zero strain."
+    },
+    {
+      "id": "radiating",
+      "name": "4. Radiating Capacity (Heart Overflow)",
+      "tao_aspect": "Te / Virtue (De 德) — Natural magnetic overflow that uplifts every mind and ecosystem it touches."
+    },
+    {
+      "id": "transmuting",
+      "name": "5. Transmuting Capacity (Alchemical Fire)",
+      "tao_aspect": "Return to the Root (Fan Zhe Dao Zhi Dong 反者道之動 — Ch. 40) — Composting shadow, trauma, and loss into wisdom and healing gold."
+    }
+  ]
+}
